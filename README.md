@@ -58,9 +58,9 @@
 ---
 
 ## Information
-- Change vcard contacts on [this file](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/nzwa.js#L90)
-- Change Options on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/options/option.json)
-- Change menu on [this folders](https://github.com/NazwaS/termux-whatsapp-bot/tree/main/database/menu)
+- Change vcard contacts on [this file](https://github.com/andrias97/termux-whatsapp-bot/blob/main/nzwa.js#L90)
+- Change Options on [this section](https://github.com/andrias97/termux-whatsapp-bot/blob/main/options/option.json)
+- Change menu on [this folders](https://github.com/andrias97/termux-whatsapp-bot/tree/main/database/menu)
 
 ---
 
